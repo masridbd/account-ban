@@ -6,7 +6,7 @@
     },
     ["TS_825378_aka"] = {
         user_id = "TS_825378_aka",
-        reason = "Banned for Hack",
+        reason = "Banned for Spamming",
         ban_date = "2026-01-15"
     }
 }
