@@ -8,10 +8,5 @@
         user_id = "TS_125538_Trusted",
         reason = "New_Premium_Request",
         ban_date = "2025-12-31"
-    },
-    ["TS_825378_aka"] = {
-        user_id = "TS_825378_aka",
-        reason = "New_Premium_Request",
-        ban_date = "2025-12-31"
     }
 }
