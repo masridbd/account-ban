@@ -1,12 +1,12 @@
 {
     ["TS_172269_sakib"] = {
         user_id = "TS_172269_sakib",
-        reason = "New_Premium_Request",
+        reason = "Ban",
         ban_date = "2025-12-31"
     },
     ["TS_125538_Trusted"] = {
         user_id = "TS_125538_Trusted",
-        reason = "New_Premium_Request",
+        reason = "Spamming",
         ban_date = "2025-12-31"
     }
 }
