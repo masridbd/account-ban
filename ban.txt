@@ -4,6 +4,11 @@
         reason = "Ban",
         ban_date = "2025-12-31"
     },
+    ["TS_579349_Dika"] = {
+        user_id = "TS_579349_Dika",
+        reason = "Ban",
+        ban_date = "2025-12-31"
+    },
     ["TS_125538_Trusted"] = {
         user_id = "TS_125538_Trusted",
         reason = "Spamming",
