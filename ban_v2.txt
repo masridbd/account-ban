@@ -21,4 +21,3 @@ TS_436602_gulali
 TS_535274_pritu
 TS_542528_aiseu
 TS_889947_ali
-TS_332103_Mscoiado
